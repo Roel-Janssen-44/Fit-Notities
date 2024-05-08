@@ -1,4 +1,4 @@
-# Fit notes
+# Fit Notities
 
 Dit is een app waarmee je jouw workouts mee kunt bijhouden. De app is gebouwd met [React-Native](https://github.com/facebook/create-react-app) & [Redux](https://redux.js.org/).
 
